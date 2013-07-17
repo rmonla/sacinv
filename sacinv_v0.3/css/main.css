@@ -70,8 +70,9 @@ body {
  min-height: 655px;
  margin-bottom: 13px;
  border: 1px solid #AEAEAE;
+ float: left;
 }
-* html #outercontent {height: 655px} /* IE Min-Height Hack */ 
+/** html #outercontent {height: 655px} /* IE Min-Height Hack */ 
 
 
 

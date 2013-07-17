@@ -3,7 +3,7 @@
     $mysql_host       = "localhost";
     $mysql_usuario    = "root";
     $mysql_contrasena = "";
-    $basedatos        = "bd_sacinv_v_0_2";
+    $basedatos        = "sacinv_v_0_3";
   /* Conecto al motor de base de datos */
     if (!($conexion_mysql = mysql_connect($mysql_host, $mysql_usuario,$mysql_contrasena))){
        echo "ERROR: <br>No se pudo establecer la conexión con la BD <em><b>".$basedatos.'</b></em>';

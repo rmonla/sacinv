@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cant",
+				"cant"
+			],
+			[
+				"la",
+				"lacant"
+			],
+			[
+				"agre",
+				"agregarSalida"
+			],
+			[
+				"can",
+				"cant_s"
+			],
+			[
+				"sql_",
+				"sql_sum_col"
+			],
+			[
+				"null",
+				"null"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"sql_in",
+				"sql_insertinto"
+			],
+			[
+				"ul",
+				"ultimoMov_id"
+			],
+			[
+				"ca",
+				"cant"
+			],
+			[
+				"fil",
+				"fila_UltMov"
+			],
+			[
+				"t",
+				"tabla"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 231.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"co",
+				"Package Control: Disable Package"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"g",
+				"Goto Documentation"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"Snippet: htm",
+				"Snippet: <?php echo htmlentities(…) ?>"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 370.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/GitHub/sacinv/sacinv.sublime-project",
+		"/C/wamp/www/GitHub/sacinv/sacinv_v0.2/inventario.php",
+		"/C/wamp/www/GitHub/sacinv/sacinv_v0.2/main/funciones_rmonla.php",
+		"/C/wamp/www/GitHub/sacinv/sacinv_v0.2/css/main.css",
+		"/C/wamp/www/GitHub/sacinv/sacinv_v0.2/index.php",
+		"/D/rmonla/Downloads/_Apply's/Portables/DeProgramacion/Sublime_Text_2_0_2/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/rmonla/Downloads/_Apply's/Portables/DeProgramacion/Sublime_Text_2_0_2/Data/Packages/User/Preferences.sublime-settings",
+		"/D/rmonla/Downloads/_Apply's/Portables/DeProgramacion/Sublime_Text_2_0_2/Data/Packages/User/html5+footer.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Estilo1",
+			"sql_insertinto('inventario'",
+			"sql_insertinto",
+			"sql_",
+			"ERROR: ",
+			"<br>ERROR:",
+			"ERROR: ",
+			"<p>\n                                            &nbsp;\n                                        </p>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

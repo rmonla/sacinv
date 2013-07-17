@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"path": "sacinv_v0.2"
+		}
+	],
+
+	"settings": {
+		"xdebug": { "url": "http://localhost/GitHub/sacinv/sacinv_v0.2/inventario.php" }
+	}
+}
